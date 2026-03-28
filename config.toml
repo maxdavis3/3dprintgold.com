@@ -24,10 +24,7 @@ colorBorderLight  = "rgba(212,175,55,0.10)"
 fontPrimary   = "Cinzel"
 fontSecondary = "Cormorant+Garamond"
 
-newsFallbackImages = [
-  "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1920&q=80",
-  "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1920&q=80",
-]
+newsFallbackImages = ["/images/fallback1.png", "/images/fallback2.png", "/images/fallback3.png"]
 
 heroEyebrow  = "Gold Additive Manufacturing"
 heroTitle    = "3D Print <em>Gold</em>"
@@ -36,7 +33,7 @@ heroCta1Text = "Explore Services"
 heroCta1URL  = "/services/"
 heroCta2Text = "Get a Quote"
 heroCta2URL  = "/contact/"
-heroImage    = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1920&q=80"
+heroImage    = "/images/hero.png"
 
 overviewLabel   = "Gold AM"
 overviewTitle   = "Direct Gold Printing"
@@ -82,22 +79,22 @@ label  = "Pattern to Polished Piece"
 [[params.applications]]
 title       = "Fine Jewelry Production"
 description = "18kt and 24kt gold rings, pendants, and settings direct from DMLS in small to medium batches."
-image       = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1920&q=80"
+image       = "/images/app-aerospace.png"
 
 [[params.applications]]
 title       = "Luxury Watch Components"
 description = "Gold case parts, crowns, and bezels with complex geometry impossible by traditional machining."
-image       = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1920&q=80"
+image       = "/images/app-medical.png"
 
 [[params.applications]]
 title       = "Bespoke Commissions"
 description = "One-of-a-kind pieces in yellow, white, and rose gold — client-designed, 3D-modelled, and printed."
-image       = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1920&q=80"
+image       = "/images/app-industrial.png"
 
 [[params.applications]]
 title       = "Investment Casting Patterns"
 description = "High-resolution gold-coloured resin patterns for lost-wax casting in platinum and palladium."
-image       = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1920&q=80"
+image       = "/images/app-energy.png"
 
 
 [[params.servicesPreview]]
